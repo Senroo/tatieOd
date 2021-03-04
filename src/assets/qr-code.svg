@@ -1,0 +1,22 @@
+<svg id="qr-code" xmlns="http://www.w3.org/2000/svg" width="71" height="71" viewBox="0 0 71 71">
+  <path id="Tracé_38" data-name="Tracé 38" d="M4.16,4.16h12.48V0H0V16.641H4.16Zm0,0" fill="#fff"/>
+  <path id="Tracé_39" data-name="Tracé 39" d="M392,0V4.16h12.48v12.48h4.16V0Zm0,0" transform="translate(-337.641)" fill="#fff"/>
+  <path id="Tracé_40" data-name="Tracé 40" d="M404.48,404.48H392v4.16h16.641V392h-4.16Zm0,0" transform="translate(-337.641 -337.641)" fill="#fff"/>
+  <path id="Tracé_41" data-name="Tracé 41" d="M4.16,392H0v16.641H16.641v-4.16H4.16Zm0,0" transform="translate(0 -337.641)" fill="#fff"/>
+  <path id="Tracé_42" data-name="Tracé 42" d="M61,60V80.8H81.8V68.32h4.16V64.16H81.8V60ZM77.641,76.641H65.16V64.16h12.48Zm0,0" transform="translate(-52.541 -51.68)" fill="#fff"/>
+  <path id="Tracé_43" data-name="Tracé 43" d="M295.961,294.961v-20.8h-8.32V270h-4.16v4.16H271v4.16h4.16v4.16H271v4.16h4.16v8.32ZM279.32,278.32H291.8V290.8H279.32Zm0,0" transform="translate(-233.42 -232.559)" fill="#fff"/>
+  <path id="Tracé_44" data-name="Tracé 44" d="M73.48,244.16H81.8V240H61v4.16h8.32v4.16H65.16v4.16h4.16v8.32H65.16v4.16h4.16v4.16h20.8v-4.16h-4.16V260.8H81.8v4.16H73.48V260.8h4.16v-4.16H73.48Zm0,0" transform="translate(-52.541 -206.719)" fill="#fff"/>
+  <path id="Tracé_45" data-name="Tracé 45" d="M121,120h4.16v4.16H121Zm0,0" transform="translate(-104.221 -103.359)" fill="#fff"/>
+  <path id="Tracé_46" data-name="Tracé 46" d="M361,120h4.16v4.16H361Zm0,0" transform="translate(-310.939 -103.359)" fill="#fff"/>
+  <path id="Tracé_47" data-name="Tracé 47" d="M313.48,80.8h8.32V60H301V80.8h8.32v4.16h4.16Zm-8.32-4.16V64.16h12.48v12.48Zm0,0" transform="translate(-259.26 -51.68)" fill="#fff"/>
+  <path id="Tracé_48" data-name="Tracé 48" d="M399.32,244.16V240H391v4.16Zm0,0" transform="translate(-336.779 -206.719)" fill="#fff"/>
+  <path id="Tracé_49" data-name="Tracé 49" d="M361,360h4.16v4.16H361Zm0,0" transform="translate(-310.939 -310.078)" fill="#fff"/>
+  <path id="Tracé_50" data-name="Tracé 50" d="M241,330h4.16v4.16H241Zm0,0" transform="translate(-207.58 -284.238)" fill="#fff"/>
+  <path id="Tracé_51" data-name="Tracé 51" d="M181,308.32h4.16V300H181Zm0,0" transform="translate(-155.9 -258.398)" fill="#fff"/>
+  <path id="Tracé_52" data-name="Tracé 52" d="M211,270h4.16v4.16H211Zm0,0" transform="translate(-181.74 -232.559)" fill="#fff"/>
+  <path id="Tracé_53" data-name="Tracé 53" d="M65.16,330H61v8.32h4.16Zm0,0" transform="translate(-52.541 -284.238)" fill="#fff"/>
+  <path id="Tracé_54" data-name="Tracé 54" d="M61,420h4.16v4.16H61Zm0,0" transform="translate(-52.541 -361.758)" fill="#fff"/>
+  <path id="Tracé_55" data-name="Tracé 55" d="M241,60h4.16v4.16H241Zm0,0" transform="translate(-207.58 -51.68)" fill="#fff"/>
+  <path id="Tracé_56" data-name="Tracé 56" d="M241,128.32h4.16V120H241Zm0,0" transform="translate(-207.58 -103.359)" fill="#fff"/>
+  <path id="Tracé_57" data-name="Tracé 57" d="M245.16,214.16V210H241v8.32h16.641v-4.16Zm0,0" transform="translate(-207.58 -180.879)" fill="#fff"/>
+</svg>
