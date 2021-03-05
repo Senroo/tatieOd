@@ -17,6 +17,8 @@ Vue.use(IconsPlugin)
 Vue.use(VueFormulate)
 Vue.config.productionTip = false
 
+
+
 new Vue({
   router,
   render: h => h(App)
