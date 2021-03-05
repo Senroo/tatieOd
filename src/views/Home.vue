@@ -17,7 +17,7 @@ h1{
   color: #B9934C;
 }
 p{
-  color: black;
+  color: white;
 }
 .home{
   height:90vh;
